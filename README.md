@@ -21,7 +21,7 @@ You can install PlatformIO from the VSCode extension marketplace.
 ### [STM32CubeProgrammer](https://www.st.com/en/development-tools/stm32cubeprog.html)
 You need this to flash the firmware to the board.
 
-### Clonne this repository
+### Clone this repository
 ```bash
 git clone --branch blackpill-led-blink-arduino https://github.com/yuichiroaoki/stm32-tutorial.git
 cd stm32-tutorial
